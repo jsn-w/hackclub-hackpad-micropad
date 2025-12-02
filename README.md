@@ -13,10 +13,13 @@ Here is the top and bottom of the case:
 On the top, where will be 6 holes for each individual key, three holes for three LEDs, and 1 rectangular hole for the OLED.
 
 # Parts Used
-- 1x XIAO RP2040
-- 1x 3D printed case: base
-- 1x 3D printed case: cap
-- 3x SK6812MINI LEDs
-- 6x Cherry MX Switches
-- 6x DSA Keycaps
-- 1x 0.91" 128x32 OLED Display
+[Materials List](https://github.com/jsn-w/hackclub-hackpad-micropad/blob/main/BOM.csv)
+| Quantity | Item                      |
+|---------|----------------------------|
+| 1       | XIAO RP2040                |
+| 1       | 3D printed case: base      |
+| 1       | 3D printed case: cap       |
+| 3       | SK6812MINI LEDs            |
+| 6       | Cherry MX Switches         |
+| 6       | DSA Keycaps                |
+| 1       | 0.91" 128x32 OLED Display  |
