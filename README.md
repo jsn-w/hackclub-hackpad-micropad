@@ -9,7 +9,7 @@ These were made in KiCad
 # CAD
 Here is the top and bottom of the case:
 <img width="988" height="582" alt="image" src="https://github.com/user-attachments/assets/bd7143c4-cde5-46c5-97b9-778f6d39cc7c" />
-<img width="986" height="667" alt="image" src="https://github.com/user-attachments/assets/43088298-2afa-4b16-8bbe-11d6b473c00d" />
+<img width="1256" height="749" alt="image" src="https://github.com/user-attachments/assets/d4e7d858-2351-4dbf-9e93-e64f1cda559b" />
 On the top, where will be 6 holes for each individual key, three holes for three LEDs, and 1 rectangular hole for the OLED.
 
 # Parts Used
